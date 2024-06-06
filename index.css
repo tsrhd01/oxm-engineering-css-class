@@ -1,0 +1,27 @@
+
+
+.container .editor_container {
+background: #3578BE ;
+
+}
+
+.conFocus {
+background: #3578BE ;
+}
+
+
+.conFocus .sidebar_container {
+  .toc_container {
+    border-color: white;
+  }
+}
+
+.conFocus .editor_container .note_profile .extra_info_container .count {
+  border-color: white;
+}
+
+  .container .editor_container .editor img{
+  filter: brightness(0) saturate(100%) invert(89%) sepia(1%) saturate(2714%) hue-rotate(196deg) brightness(107%) contrast(98%); color-scheme: dark;
+}
+
+
